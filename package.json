@@ -1,0 +1,32 @@
+{
+  "name": "jkdw2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashe/jkdw2d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-0": "^6.5.0",
+    "webpack": "*",
+    "webpack-dev-server": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Rashe/jkdw2d/issues"
+  },
+  "homepage": "https://github.com/Rashe/jkdw2d#readme"
+}

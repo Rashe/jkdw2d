@@ -1,0 +1,25 @@
+#app {
+  padding: 1rem; }
+  #app .item {
+    display: inline-block;
+    margin: 1rem 1rem 1rem 0; }
+  #app .folder, #app .img {
+    text-align: center; }
+    #app .folder i, #app .img i {
+      font-size: 4rem;
+      color: #487; }
+  #app .folder {
+    cursor: pointer; }
+  #app .goUp {
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-top: 2rem; }
+  #app .path {
+    font-size: 1.5rem; }
+  #app .search {
+    margin-top: 1rem; }
+    #app .search label {
+      display: block;
+      margin-top: 1rem; }
+
+/*# sourceMappingURL=app.css.map */
